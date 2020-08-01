@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Stage 1') {
             steps {
-                echo 'Please work master man!' 
+                echo 'Please work devto man!' 
             }
         }
     }
