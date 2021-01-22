@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Stage 1') {
             steps {
-                echo 'yahooo' 
+                echo 'trigger me!' 
             }
         }
     }
